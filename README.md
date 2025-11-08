@@ -1,4 +1,4 @@
-# <a href="#" target="_blank">Reca Conag Portfolio</a>
+# <a href="#" target="_blank">My Portfolio</a>
 
 <p align="justify">
 A personal portfolio website that showcases my projects, skills, and experiences as an IT student.  
